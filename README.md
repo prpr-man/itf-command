@@ -3,7 +3,7 @@ We are the itf students., you will be itf. Resistance is futile.
 
 <div style="text-align:center"><img src ="https://github.com/prpr-man/itf-command/blob/master/demo.gif"></div>
 
-## Usages
+## Usage
 ### Clone
 ```
 $ git clone https://github.com/prpr-man/itf-command.git

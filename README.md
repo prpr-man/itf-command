@@ -1,7 +1,7 @@
 # IMAGINE THE FUTURE. is watching you
 We are the itf students., you will be itf. Resistance is futile.
 
-<div style="text-align:center"><img src ="https://github.com/prpr-man/itf-command/demo.gif"></div>
+<div style="text-align:center"><img src ="https://github.com/prpr-man/itf-command/blob/master/demo.gif"></div>
 
 ## Usages
 ### Clone
